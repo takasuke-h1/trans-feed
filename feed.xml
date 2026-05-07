@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trans (個人用)</title>
+    <link>https://takasuke-h1.github.io/trans-feed/</link>
+    <description>NPR 等の英語ニュースを日本語に要約・解説した個人用フィード</description>
+    <language>ja</language>
+    <itunes:author>Trans</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <atom:link href="https://takasuke-h1.github.io/trans-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Planet Money Live: Anthropic co-founder, Jack Clark, on Mythos and the AI future  : Planet Money</title>
+      <description>今回ご紹介するのは、NPRのポッドキャスト「Planet Money」です。ホストのエリカ・ベラスさんが進行を担当していて、番組チームが新刊書籍のプロモーションのために全米各地を回った「ブックツアー」の模様をお届けする、ちょっと特別な回になっています。
+
+ニューヨーク、ワシントンDC、ボストン、サンフランシスコ、シアトル、ロサンゼルスと次々に都市を回ったこのツアー。各地でリスナーと直接会って話せる機会というのは、ラジオ番組にとって本当に稀なことだそうで、エリカさんたちもその喜びをしみじみと語っています。そして今回の番組は、ツアーに来られなかった人たちのために、その現場の様子を丸ごと届けようとい...</description>
+      <link>https://www.npr.org/transcripts/nx-s1-5794326</link>
+      <pubDate>Thu, 07 May 2026 15:15:42 +0000</pubDate>
+      <guid isPermaLink="false">RhDkbSzIHOI</guid>
+      <enclosure url="https://takasuke-h1.github.io/trans-feed/audio/RhDkbSzIHOI.mp3" length="5312592" type="audio/mpeg"/>
+      <itunes:duration>885</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
