@@ -12,6 +12,34 @@
     <itunes:category text="News"/>
     <atom:link href="https://takasuke-h1.github.io/trans-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Could AI help us, not replace us? : TED Radio Hour</title>
+      <description>今回ご紹介するのは、NPRとTEDが共同制作するラジオ番組「TED Radio Hour」です。ホストはマヌーシュ・ゾモロディさん。今回のテーマは「人間を中心に置くAIをどう作るか」です。シリの共同開発者トム・グルーバーさん、教育テックの起業家プリヤ・ラカニさん、そして金融サービス企業ロビンフッドのCEOヴラド・テネフさんの3人が登場します。
+
+まず番組の冒頭は、懐かしい声から始まります。
+
+「私の名前はシリです」
+
+そう、アップルの音声アシスタント、シリです。2011年に新しいiPhoneに搭載されて、多くの人にとってAIとの最初の出会いになったあのシリですね。シリの最高技術責任者兼デザイン...</description>
+      <link>https://www.npr.org/transcripts/nx-s1-5771681</link>
+      <pubDate>Fri, 08 May 2026 16:28:39 +0000</pubDate>
+      <guid isPermaLink="false">fINADMOoNXI</guid>
+      <enclosure url="https://takasuke-h1.github.io/trans-feed/audio/fINADMOoNXI.mp3" length="5243616" type="audio/mpeg"/>
+      <itunes:duration>873</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Who is really shaping the future of AI? : TED Radio Hour</title>
+      <description>NPR のポッドキャスト「TED Radio Hour」の、AIの未来をめぐる特集回をご紹介します。ホストはマヌーシュ・ゾモロディさん。今回のゲストは、35年にわたってAI研究に携わってきた起業家・エンジニアのアルヴィン・ワン・グレイリンさん、NPRのテクノロジー記者ジョン・ルウィッチさん、そしてOpenAIのCEO、サム・アルトマンさん。AIは本当に私たちの社会を変えるのか、米中の覇権争いはどこへ向かうのか、というテーマで議論が展開されます。
+
+まず登場するのが、アルヴィン・ワン・グレイリンさんです。彼は中国生まれのアメリカ人エンジニアで、MIT でコンピュータサイエンスとビジネスの修士号を...</description>
+      <link>https://www.npr.org/transcripts/nx-s1-5648239</link>
+      <pubDate>Fri, 08 May 2026 16:25:47 +0000</pubDate>
+      <guid isPermaLink="false">Y2hYaJASZuk</guid>
+      <enclosure url="https://takasuke-h1.github.io/trans-feed/audio/Y2hYaJASZuk.mp3" length="5768352" type="audio/mpeg"/>
+      <itunes:duration>961</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>How long until AI takes your job? : Consider This from NPR</title>
       <description>NPR のポッドキャスト「Consider This」、今回はAIと仕事の未来についての回をご紹介します。ホストはスコット・デトロウさん。ゲストはテクノロジー専門のライター、ケルシー・パイパーさんと、イェール大学の予算研究所エグゼクティブ・ディレクターのマーサ・ギンベルさん。「AIが仕事を奪うかもしれない」という話題が急速に広まっているこの瞬間を、落ち着いて読み解こうという内容です。
 
